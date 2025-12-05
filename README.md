@@ -1,7 +1,7 @@
 # Rational Function Generator
 
 I made this program because my peers and I lacked a simple tool for creating polynomial functions for practice.  
-It turns out that this year, Grade 12 Advanced Functions teachers are not giving out math textbooks, as they don’t have enough to supply everyone.
+It turns out that this year, the Advanced Functions teachers are not giving out math textbooks, as they don’t have enough to supply everyone.
 
 And that's where this highly intuitive program comes into play. Simply:
 1. Enter the **highest degree** for the question.  
